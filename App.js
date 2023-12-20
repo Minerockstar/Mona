@@ -16,6 +16,7 @@ function Navbar() {
       <li>PORTFOLIO</li>
       <li>CONTACT</li>
      </ul>
+    <br/>
      </nav>
      </div>
      <div className='hello'>
