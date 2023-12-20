@@ -8,7 +8,7 @@ function Navbar() {
      <div className='navbar_container'>
      <nav className='navbar'> 
      <h1><FaReact size={30} /></h1>
-     <ul>
+     <ul>hello
       <li>HOME</li>
       <li>ABOUT ME</li>
       <li>SKILLS</li>
